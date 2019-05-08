@@ -103,10 +103,10 @@ lunch[3]='what the heck is this?';
 
 //Все равно что:
 var lunch = [
-'Dosa',
-'Roti',
-'Rice',
-'what the heck is this?'
+   'Dosa',
+   'Roti',
+   'Rice',
+   'what the heck is this?'
 ];
 ```
 ```js
